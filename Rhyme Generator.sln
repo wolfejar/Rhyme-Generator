@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhyme Generator", "Rhyme Generator\Rhyme Generator.csproj", "{2531772E-8C14-4D65-AEF6-04A2F7AEC02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2531772E-8C14-4D65-AEF6-04A2F7AEC02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2531772E-8C14-4D65-AEF6-04A2F7AEC02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2531772E-8C14-4D65-AEF6-04A2F7AEC02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2531772E-8C14-4D65-AEF6-04A2F7AEC02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6853E756-8713-46F0-8495-4D80F4161DCA}
+	EndGlobalSection
+EndGlobal
