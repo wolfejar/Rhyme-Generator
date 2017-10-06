@@ -35,12 +35,14 @@
             // 
             // uxButton
             // 
+            this.uxButton.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.uxButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.uxButton.Location = new System.Drawing.Point(197, 12);
             this.uxButton.Name = "uxButton";
             this.uxButton.Size = new System.Drawing.Size(75, 52);
             this.uxButton.TabIndex = 0;
             this.uxButton.Text = "Generate Rhyme";
-            this.uxButton.UseVisualStyleBackColor = true;
+            this.uxButton.UseVisualStyleBackColor = false;
             this.uxButton.Click += new System.EventHandler(this.uxButton_Click);
             // 
             // uxInput
