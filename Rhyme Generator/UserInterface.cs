@@ -52,7 +52,7 @@ namespace Rhyme_Generator
             {
                 return "";
             }
-            string[] words = File.ReadAllLines(@"C: \Users\bigba_000\Documents\dictionary.txt");
+            string[] words = File.ReadAllLines("dictionary.txt");
             StringBuilder sb = new StringBuilder();
             int count = 0;
             string vowels = "aeiouy";
